@@ -1,3 +1,5 @@
 # Take two numbers as input
-
-# Print their sum
+a = 5
+b = 7
+result = a + b
+print("Sum:", result)
